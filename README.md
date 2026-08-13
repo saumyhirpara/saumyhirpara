@@ -159,7 +159,7 @@ Worked on full-stack web application development using modern frontend and backe
 
 ### University of Duisburg-Essen
 
-**M.Sc. Computer Science**
+**M.Sc. infomatics**
 
 Germany
 
