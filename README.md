@@ -15,7 +15,6 @@ I enjoy designing and developing scalable web applications, REST APIs, booking s
 - 🌍 Based in Germany
 - 💻 Focused on Full-Stack Web Development
 - 🚀 Interested in scalable web applications and backend systems
-- 🔎 Open to Werkstudent, Internship and Junior Full-Stack Developer opportunities
 
 ---
 
